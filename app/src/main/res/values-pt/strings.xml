@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Beer App</string>
+    <string name="app_bar_title">Lista de Cervejas</string>
+    <string name="app_bar_detail">Detalhe da Cerveja</string>
+    <string name="app_bar_favorites">Favoritos</string>
+    <string name="app_menu_search">Buscar</string>
+    <string name="app_menu_favorite">Favoritos</string>
+    <string name="app_no_connection">Sem conexão de internet</string>
+    <string name="app_bt_connection">Tente novamente</string>
+    <string name="app_no_favorite">Sem favoritos</string>
+</resources>
