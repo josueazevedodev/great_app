@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Beer App</string>
+    <string name="app_bar_title">Beer List</string>
+    <string name="app_bar_detail">Beer Details</string>
+    <string name="app_bar_favorites">Favorites</string>
+    <string name="app_menu_search">Search</string>
+    <string name="app_menu_favorite">Favorites</string>
+    <string name="app_no_connection">No internet connection</string>
+    <string name="app_bt_connection">try again</string>
+    <string name="app_no_favorite">no favorite</string>
+</resources>
